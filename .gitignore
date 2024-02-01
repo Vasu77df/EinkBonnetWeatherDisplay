@@ -1,4 +1,4 @@
 eink
 __pycache__
 .vscode
-apikey.py
+/src/eink_weather/apikey.py
