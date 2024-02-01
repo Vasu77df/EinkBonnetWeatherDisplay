@@ -7,7 +7,8 @@ import busio
 import board
 from adafruit_epd.ssd1675 import Adafruit_SSD1675
 from .weather_graphics import Weather_Graphics
-from .utils import OPEN_WEATHER_TOKEN, DATA_SOURCE_URL, get_logger
+from .utils import DATA_SOURCE_URL, get_logger
+from .apikey import OPEN_WEATHER_TOKEN
 
 logger = get_logger(__name__)
 

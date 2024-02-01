@@ -4,7 +4,6 @@ from logging import Logger
 import sys
 
 # OpenWeather constants
-OPEN_WEATHER_TOKEN = "dd5792cff21790d86f018738d0df7dbd"
 DATA_SOURCE_URL = "http://api.openweathermap.org/data/2.5/weather"
 
 # Map the OpenWeatherMap icon code to the appropriate font character
