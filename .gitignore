@@ -1,4 +1,3 @@
-eink
 __pycache__
 .vscode
-/src/eink_weather/apikey.py
+src/eink_weather/apikey.py
